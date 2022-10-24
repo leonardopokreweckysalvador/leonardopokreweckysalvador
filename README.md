@@ -1,4 +1,6 @@
-## Leonardo Pokrewecky Salvador
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=000000BD&width=435&lines=Ol%C3%A1%2C+eu+sou+Leonardo%2C+Bem+Vindo!!!)](https://git.io/typing-svg)
+
+##
 
 <div align="center">
   <a href="https://github.com/leonardopokreweckysalvador">
@@ -19,3 +21,9 @@
   <a href = "mailto:leonardo.pokrewecky@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
   <a href="https://www.linkedin.com/in/leonardopokreweckysalvador" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+  ##
+    
+![Snake animation](https://github.com/KauaAmaral/KauaAmaral/blob/output/github-contribution-grid-snake.svg)
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>
