@@ -27,4 +27,3 @@
   ##
     
 ![Snake animation](https://github.com/KauaAmaral/KauaAmaral/blob/output/github-contribution-grid-snake.svg)
- 
