@@ -1,6 +1,6 @@
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+eu+sou+Leonardo%2C+Bem+Vindo!!!)](https://git.io/typing-svg)
-</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=4500&pause=1000&color=6799F7&center=true&vCenter=true&width=800&height=80&lines=Ol%C3%A1%2C+eu+sou+Leonardo+Pokrewecky+salvador%2C+Bem+Vindo)](https://git.io/typing-svg)
+
 
 ##
 
