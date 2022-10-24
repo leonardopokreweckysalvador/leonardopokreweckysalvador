@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=4500&pause=1000&color=6799F7&center=true&vCenter=true&width=800&height=80&lines=Ol%C3%A1%2C+eu+sou+Leonardo+Pokrewecky+salvador%2C+Bem+Vindo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=4500&pause=1000&color=6799F7&center=true&vCenter=true&width=1000&height=80&lines=Ol%C3%A1%2C+eu+sou+Leonardo+Pokrewecky+salvador%2C+Bem+Vindo)](https://github.com/leonardopokreweckysalvador)
 
 
 ##
@@ -27,5 +27,4 @@
   ##
     
 ![Snake animation](https://github.com/KauaAmaral/KauaAmaral/blob/output/github-contribution-grid-snake.svg)
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>
+ 
